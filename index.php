@@ -1,5 +1,5 @@
 <?php
-$token = "MTAxMzIwMjQxMjM0Mjg4MjQzNg.Gb2AhU.8n07hKIsplnoVPC-kCaI8d8847QZc9qJUFlEpI";
+$token = "";
 $channel_id = "1121096960288497796";
 
 $payload = array(

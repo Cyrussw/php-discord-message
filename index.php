@@ -1,6 +1,6 @@
 <?php
 $token = "";
-$channel_id = "1121096960288497796";
+$channel_id = "";
 
 $payload = array(
     "content" => "Merhaba!"
